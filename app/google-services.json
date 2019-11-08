@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82168433462",
+    "firebase_url": "https://uniseoul-3f94c.firebaseio.com",
+    "project_id": "uniseoul-3f94c",
+    "storage_bucket": "uniseoul-3f94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82168433462:android:ea53e190d10c36e3db0197",
+        "android_client_info": {
+          "package_name": "com.nugu.uniseoul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82168433462-p682f16l8ecq75r82u5thlr58higo7ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nugu.uniseoul",
+            "certificate_hash": "4d23eb8234469a77ccbd6d80f4ea56662c8d4c22"
+          }
+        },
+        {
+          "client_id": "82168433462-2q9sv2e0lchjgeglnvvv565kq8khjgks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmRrgyjDycv2hadUKnOdGTM7KtLUkEZ3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82168433462-2q9sv2e0lchjgeglnvvv565kq8khjgks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
